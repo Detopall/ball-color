@@ -1,0 +1,20 @@
+
+header {
+	font-family: Impact,'Arial Narrow Bold', sans-serif;
+	font-size: 7rem;
+	text-align: center;
+}
+
+p {
+	font-size: 2rem;
+	font-family:Impact, 'Arial Narrow Bold', sans-serif;
+	text-decoration: underline;
+	text-align: center;
+}
+
+#canvas {
+	border: 0.1rem solid black;
+	display: block;
+	margin: 0 auto;
+	background: yellowgreen;
+}
